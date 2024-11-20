@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "441603165560",
+    "firebase_url": "https://ezbill123-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ezbill123",
+    "storage_bucket": "ezbill123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441603165560:android:66d9fa987e211be8be8c8d",
+        "android_client_info": {
+          "package_name": "com.example.ezbill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfArEhKf2I1xX43D4wBU51wuOgbv01kvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
